@@ -2,5 +2,5 @@
   "BuildSitecore": true,
   "CreateSitecoreItemPackage": true,
   "SitecoreBuildOutputDirectory": "/build/docker/deploy/sitecore",
-  "SitecoreBuildCommand": "msbuild .\src\Environment\platform\BasicCompany.Environment.Platform.csproj /p:Configuration=Debug /m /p:DeployOnBuild=true /p:PublishProfile=Local"
+  "SitecoreBuildCommand": "msbuild ./src/Environment/platform/BasicCompany.Environment.Platform.csproj /p:Configuration=Debug /m /p:DeployOnBuild=true /p:PublishProfile=Local"
 }
