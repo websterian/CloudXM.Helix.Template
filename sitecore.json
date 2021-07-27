@@ -4,8 +4,6 @@
     "src/*/*/*.module.json"
   ],
   "plugins": [
-    "Sitecore.DevEx.Extensibility.ResourcePackage@4.0.0-r00297",
-    "Sitecore.DevEx.Extensibility.Serialization@3.0.0"
   ],
   "serialization": {
     "defaultMaxRelativeItemPathLength": 100,
