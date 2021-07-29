@@ -1,4 +1,4 @@
-# Running the Example test
+# Running the Example hello
 
 ## Prerequisites
 
