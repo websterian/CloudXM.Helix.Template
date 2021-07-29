@@ -1,4 +1,4 @@
-# Running the Example hellos
+# Running the Example hello
 
 ## Prerequisites
 
